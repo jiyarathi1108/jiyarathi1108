@@ -28,7 +28,7 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <p>I'm <b>Jiya</b> — a UI/UX Designer who loves turning messy, complex workflows into clean, intuitive, delightful products. I design <b>mobile apps, responsive websites, dashboards, and business software</b> — end to end, from the first user flow to developer-ready handoff.</p>
+      <p>I'm <b>Jiya Rathi</b> — a UI/UX Designer who loves turning messy, complex workflows into clean, intuitive, delightful products. I design <b>mobile apps, responsive websites, dashboards, and business software</b> — end to end, from the first user flow to developer-ready handoff.</p>
       <ul>
         <li>🌍 &nbsp;Worldwide · India</li>
         <li>💼 &nbsp;Freelance UI/UX Designer on <b>Upwork</b> — designing apps, websites & dashboards for clients worldwide</li>
